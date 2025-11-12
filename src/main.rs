@@ -137,7 +137,7 @@ fn spawn_layout(mut commands: Commands, asset_server: Res<AssetServer>) {
                             ..default()
                         },
                     ));
-                    builder.spawn((Text::new("A paragraph of text which ought to wrap nicely. A paragraph of text which ought to wrap nicely. A paragraph of text which ought to wrap nicely. A paragraph of text which ought to wrap nicely. A paragraph of text which ought to wrap nicely. A paragraph of text which ought to wrap nicely. A paragraph of text which ought to wrap nicely."),
+                    builder.spawn((Text::new("A paragraph ofp nicely. A paragraph of text which ought to wrap nicely. A paragraph of text why."),
                         TextFont {
                             font: font.clone(),
                             font_size: 13.0,
@@ -147,24 +147,25 @@ fn spawn_layout(mut commands: Commands, asset_server: Res<AssetServer>) {
                     builder.spawn(Node::default());
                 });
 
-            // Footer / status bar
             builder.spawn((
                 Node {
-                    // Make this node span two grid column so that it takes up the entire bottom row
                     grid_column: GridPlacement::span(2),
                     ..default()
                 },
                 BackgroundColor(WHITE.into()),
             ))
                 .with_children(|builder| {
-                    builder.spawn((Text::new("Sidebar"),
+                    builder.spawn((Text::new("Bottombar"),
                         TextFont {
                             font: font.clone(),
                             ..default()
-                        },
+                        },        TextColor::BLACK,
                     ));
                     builder.spawn(Node::default());
                 });
+
+let a = 5;
+
 
 
             // Modal (absolutely positioned on top of content - currently hidden: to view it, change its visibility)
