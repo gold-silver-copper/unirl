@@ -1,0 +1,862 @@
+
+***
+
+### 1. 鱼 (yú) - Fish
+This suffix is used for animals that live in water, primarily fish, but also aquatic mammals due to historical classification.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 鱼 | 鱼 | yú | Fish |
+| 鱼 | 鲨鱼 | shāyú | Shark |
+| 鱼 | 鲸鱼 | jīngyú | Whale |
+| 鱼 | 鳄鱼 | èyú | Crocodile/Alligator |
+| 鱼 | 金鱼 | jīnyú | Goldfish |
+| 鱼 | 章鱼 | zhāngyú | Octopus |
+| 鱼 | 鲤鱼 | lǐyú | Carp |
+| 鱼 | 三文鱼 | sānwényú | Salmon |
+
+***
+
+### 2. 鸟 (niǎo) - Bird
+This suffix is used for all kinds of birds.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 鸟 | 鸟 | niǎo | Bird |
+| 鸟 | 犀鸟 | xīniǎo | Hornbill |
+| 鸟 | 蜂鸟 | fēngniǎo | Hummingbird |
+| 鸟 | 鸵鸟 | tuóniǎo | Ostrich |
+| 鸟 | 海鸟 | hǎiniǎo | Seabird |
+| 鸟 | 水鸟 | shuǐniǎo | Waterbird |
+
+***
+
+### 3. 兽 (shòu) - Beast / Mammal
+This formal suffix refers to beasts or large mammals. It's often used in scientific or formal contexts.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 兽 | 野兽 | yěshòu | Wild Beast |
+| 兽 | 哺乳兽 | bǔrǔshòu | Mammal (technical) |
+| 兽 | 犀牛兽 | xīniúshòu | Rhinoceros (less common) |
+| 兽 | 海兽 | hǎishòu | Marine Mammal |
+
+***
+
+### 4. 虫 (chóng) - Insect / Bug
+This suffix is used for insects, worms, and other small creatures, including some reptiles and amphibians.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 虫 | 虫 | chóng | Insect/Bug |
+| 虫 | 昆虫 | kūnchóng | Insect (formal) |
+| 虫 | 毛毛虫 | máomáochóng | Caterpillar |
+| 虫 | 瓢虫 | piáochóng | Ladybug |
+| 虫 | 蠕虫 | rúchóng | Worm |
+| 虫 | 蝗虫 | huángchóng | Locust |
+| 虫 | 甲虫 | jiǎchóng | Beetle |
+
+***
+
+### 5. 蛇 (shé) - Snake
+This is both a word and a suffix for snake-like creatures.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 蛇 | 蛇 | shé | Snake |
+| 蛇 | 毒蛇 | dúshé | Venomous Snake |
+| 蛇 | 蟒蛇 | mǎngshé | Python/Boa |
+| 蛇 | 海蛇 | hǎishé | Sea Snake |
+
+***
+
+### 6. 牛 (niú) - Bovine
+Literally "cow," this suffix is used for large, bovine-like or powerful animals.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 牛 | 牛 | niú | Cow/Ox |
+| 牛 | 水牛 | shuǐniú | Water Buffalo |
+| 牛 | 犀牛 | xīniú | Rhinoceros ("Nose Cow") |
+| 牛 | 蜗牛 | wōniú | Snail ("Snail Cow") |
+| 牛 | 天牛 | tiānniú | Longhorn Beetle ("Sky Cow") |
+
+***
+
+### 7. 马 (mǎ) - Horse
+Literally "horse," this suffix is used for equine-like or large, fast-moving animals.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 马 | 马 | mǎ | Horse |
+| 马 | 河马 | hémǎ | Hippopotamus ("River Horse") |
+| 马 | 海马 | hǎimǎ | Seahorse ("Sea Horse") |
+| 马 | 斑马 | bānmǎ | Zebra ("Striped Horse") |
+| 马 | 角马 | jiǎomǎ | Wildebeest ("Horned Horse") |
+
+***
+
+### 8. 狼 (láng) - Wolf
+This suffix is used for canine-like animals.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 狼 | 狼 | láng | Wolf |
+| 狼 | 豺狼 | cháiláng | Jackal |
+| 狼 | 土狼 | tǔláng | Aardwolf ("Earth Wolf") |
+| 狼 | 海狼 | hǎiláng | Wolf Eel (a fish, "Sea Wolf") |
+
+***
+
+### 9. 猴 (hóu) - Monkey
+This suffix is used for primates.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 猴 | 猴 | hóu | Monkey |
+| 猴 | 猴子 | hóuzi | Monkey (with common suffix 子) |
+| 猴 | 猩猩 | xīngxing | Orangutan/Gorilla (reduplicated) |
+| 猴 | 长臂猿 | chángbìyuán | Gibbon (uses 猿 yuán, another word for ape) |
+
+***
+
+### Important Note on 子 (zi)
+While not a "category" suffix like the others, **子 (zi)** is an extremely common **nominal suffix** added to many nouns, including animals, to form a comfortable two-syllable word. It often doesn't change the meaning.
+
+*   兔**子** (tù**zi**) - Rabbit
+*   猴**子** (hóu**zi**) - Monkey
+*   狮**子** (shī**zi**) - Lion
+*   鸭**子** (yā**zi**) - Duck
+*   蚊**子** (wén**zi**) - Mosquito
+
+***
+
+### 1. 衫 (shān) - Shirt / Top
+A general suffix for tops and blouses.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 衫 | 衬衫 | chènshān | Dress Shirt |
+| 衫 | T恤衫 | T xùshān | T-Shirt |
+| 衫 | 毛衣衫 | máoyīshān | Sweater (less common, usually just 毛衣) |
+| 衫 | 汗衫 | hànshān | Undershirt / T-shirt (traditional) |
+| 衫 | 卫衣 | wèiyī | Hoodie (uses 衣, not 衫) |
+
+***
+
+### 2. 衣 (yī) - Clothing / Garment
+A more formal and general character for "clothing," used in many compound words.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 衣 | 大衣 | dàyī | Overcoat |
+| 衣 | 风衣 | fēngyī | Trench Coat ("Wind Coat") |
+| 衣 | 雨衣 | yǔyī | Raincoat |
+| 衣 | 内衣 | nèiyī | Underwear |
+| 衣 | 外衣 | wàiyī | Outerwear |
+| 衣 | 睡衣 | shuìyī | Pajamas |
+| 衣 | 毛衣 | máoyī | Sweater ("Wool Clothing") |
+| 衣 | 羽绒服 | yǔróngfú | Down Jacket (uses 服 fú, a synonym for 衣) |
+
+***
+
+### 3. 裤 (kù) - Pants / Trousers
+The universal suffix for any garment worn on the legs.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 裤 | 裤子 | kùzi | Pants / Trousers |
+| 裤 | 牛仔裤 | niúzǎikù | Jeans ("Cowboy Pants") |
+| 裤 | 短裤 | duǎnkù | Shorts ("Short Pants") |
+| 裤 | 长裤 | chángkù | Long Pants |
+| 裤 | 运动裤 | yùndòngkù | Sweatpants |
+| 裤 | 内裤 | nèikù | Underwear ("Inner Pants") |
+| 裤 | 睡裤 | shuìkù | Pajama Pants |
+| 裤 | 紧身裤 | jǐnshēnkù | Leggings |
+
+***
+
+### 4. 裙 (qún) - Skirt
+The suffix for all skirt-like garments.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 裙 | 裙子 | qúnzi | Skirt |
+| 裙 | 短裙 | duǎnqún | Short Skirt |
+| 裙 | 长裙 | chángqún | Long Skirt |
+| 裙 | 连衣裙 | liányīqún | Dress ("Connected Clothing Skirt") |
+| 裙 | 半身裙 | bànshēnqún | Half-length Skirt |
+| 裙 | 衬衫裙 | chènshānqún | Shirt Dress |
+
+***
+
+### 5. 帽 (mào) - Hat / Cap
+The suffix for headwear.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 帽 | 帽子 | màozi | Hat / Cap |
+| 帽 | 鸭舌帽 | yāshémào | Baseball Cap ("Duck Tongue Hat") |
+| 帽 | 太阳帽 | tàiyángmào | Sun Hat |
+| 帽 | 草帽 | cǎomào | Straw Hat |
+| 帽 | 毛线帽 | máoxiànmào | Beanie ("Wool Thread Hat") |
+| 帽 | 安全帽 | ānquánmào | Safety Helmet |
+
+***
+
+### 6. 鞋 (xié) - Shoes
+The suffix for footwear.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 鞋 | 鞋子 | xiézi | Shoes |
+| 鞋 | 运动鞋 | yùndòngxié | Sneakers / Athletic Shoes |
+| 鞋 | 高跟鞋 | gāogēnxié | High-heeled Shoes |
+| 鞋 | 平底鞋 | píngdǐxié | Flat Shoes |
+| 鞋 | 靴子 | xuēzi | Boots (uses 子, but 靴 xuē means boot) |
+| 鞋 | 凉鞋 | liángxié | Sandals |
+| 鞋 | 拖鞋 | tuōxié | Slippers |
+
+***
+
+### 7. 袜 (wà) - Socks
+The suffix for hosiery.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 袜 | 袜子 | wàzi | Socks |
+| 袜 | 短袜 | duǎnwà | Ankle Socks |
+| 袜 | 长袜 | chángwà | Knee-high Socks |
+| 袜 | 连裤袜 | liánkùwà | Pantyhose ("Connected Pants Socks") |
+| 袜 | 丝袜 | sīwà | Silk Stockings |
+
+***
+
+### 8. 服 (fú) - Clothing (Formal/Garment)
+Similar to 衣 (yī), it means "clothing" and is used for specific types of garments, often uniforms or full outfits.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 服 | 衣服 | yīfu | Clothing (general term, combines 衣 and 服) |
+| 服 | 西装 | xīzhuāng | Western Suit (uses 装 zhuāng, a synonym) |
+| 服 | 礼服 | lǐfú | Formal Wear / Evening Gown |
+| 服 | 校服 | xiàofú | School Uniform |
+| 服 | 运动服 | yùndòngfú | Tracksuit / Sportswear |
+| 服 | 睡衣 | shuìyī | Pajamas (uses 衣, but means "sleep clothing") |
+| 服 | 羽绒服 | yǔróngfú | Down Jacket |
+
+***
+
+### 9. 装 (zhuāng) - Attire / Outfit
+Often refers to a full outfit, costume, or suit. It can be interchangeable with 服 in some contexts.
+
+| Suffix | Chinese Characters | Pinyin | English |
+| :--- | :--- | :--- | :--- |
+| 装 | 服装 | fúzhuāng | Clothing (general, formal) |
+| 装 | 西装 | xīzhuāng | Western Suit |
+| 装 | 中山装 | Zhōngshānzhuāng | Mao Suit |
+| 装 | 女装 | nǚzhuāng | Women's Clothing |
+| 装 | 男装 | nánzhuāng | Men's Clothing |
+| 装 | 童装 | tóngzhuāng | Children's Clothing |
+| 装 | 泳装 | yǒngzhuāng | Swimsuit |
+
+***
+
+### Important Note on 子 (zi)
+Just like with animals, the suffix **子 (zi)** is extremely common in clothing words to form a comfortable two-syllable word. It often doesn't change the meaning.
+
+*   裤**子** (kù**zi**) - Pants
+*   裙**子** (qún**zi**) - Skirt
+*   帽**子** (mào**zi**) - Hat
+*   鞋**子** (xié**zi**) - Shoes
+*   袜**子** (wà**zi**) - Socks
+*   袖**子** (xiù**zi**) - Sleeve
+*   领**子** (lǐng**zi**) - Collar
+
+**General Description + Material + Core Noun**
+
+
+---
+
+### 1. "A horse leather left glove"
+
+In Chinese, the order for describing a noun is:
+**Left/Right + (Other attributes) + Material + Noun**
+
+*   **Left:** 左 (zuǒ)
+*   **Glove:** 手套 (shǒutào)
+*   **Horse Leather:** 马皮 (mǎpí) - "Horse" + "Leather/Skin"
+
+Putting it together, we get:
+**左 + 马皮 + 手套**
+
+> **Simplified:** 一只左马皮手套
+> **Traditional:** 一隻左馬皮手套
+> **Pinyin:** Yī zhī zuǒ mǎpí shǒutào.
+> **Literal:** "One [classifier] left horse-leather glove."
+
+**Explanation:**
+*   **一只 (yī zhī):** "One." 只 (zhī) is a common classifier for one of a pair (like gloves, hands, eyes).
+*   The order is the opposite of English: "Left" comes before the material "horse leather."
+
+---
+
+### 2. "Wool sweater with embroidered golden thread in cross patterns"
+
+This is more complex and requires breaking it into logical chunks. The core noun is "sweater" (毛衣, máoyī).
+
+The descriptive order is:
+**Pattern + Design/Embellishment + Material + Noun**
+
+Let's identify the components:
+*   **Wool:** 羊毛 (yángmáo)
+*   **Sweater:** 毛衣 (máoyī) - This word already contains "wool" (毛), so you often don't need to repeat it. However, for clarity and emphasis, you can.
+*   **Embroidered:** 绣有...的 (xiù yǒu... de) - "embellished with..."
+*   **Golden Thread:** 金线 (jīnxiàn)
+*   **Cross Patterns:** 十字图案 (shízì tú'àn)
+
+We can structure this in two main ways:
+
+#### **Option 1: More direct and common**
+
+We describe the sweater as a "wool sweater" and then add the embroidery as a separate clause.
+
+> **Simplified:** 一件绣有金线十字图案的羊毛毛衣。
+> **Traditional:** 一件繡有金線十字圖案的羊毛毛衣。
+> **Pinyin:** Yī jiàn xiù yǒu jīnxiàn shízì tú'àn de yángmáo máoyī.
+> **Literal:** "One [classifier] embroidered-with golden-thread cross-pattern **'s** wool sweater."
+
+#### **Option 2: More concise (and very natural)**
+
+Since 毛衣 (máoyī) implies "wool," we can drop 羊毛 (yángmáo) to avoid repetition.
+
+> **Simplified:** 一件绣有金线十字图案的毛衣。
+> **Traditional:** 一件繡有金線十字圖案的的毛衣。
+> **Pinyin:** Yī jiàn xiù yǒu jīnxiàn shízì tú'àn de máoyī.
+> **Literal:** "One [classifier] embroidered-with golden-thread cross-pattern **'s** sweater."
+
+---
+
+### **Key Grammar Takeaways:**
+
+1.  **The Magic 的 (de):** This particle is the glue that attaches all descriptions to the main noun. Think of it as **'s**.
+    *   `[绣有金线十字图案]的[毛衣]` = `[embroidered with gold thread]'s [sweater]`
+
+2.  **Word Order is Reversed from English:** Always start with the smallest detail and move toward the main noun.
+    *   **English:** Wool sweater [with] embroidered golden thread [in] cross patterns.
+    *   **Chinese:** [Cross-pattern golden-thread embroidered]'s wool sweater.
+    *   `十字图案 (cross pattern)` -> `金线 (gold thread)` -> `绣有...的 (embroidered with)` -> `毛衣 (sweater)`
+
+3.  **Classifiers (量词 liàngcí):** Remember to use the correct classifier before the noun.
+    *   **只 (zhī):** For one of a pair (gloves, shoes, hands).
+    *   **件 (jiàn):** For upper body clothing (shirts, sweaters, jackets).
+
+By following this structure—**Specific Description + 的 + Material + Core Noun**—you can accurately describe almost any object in Chinese.
+
+
+
+
+Human Body Parts, Clothing, and Components - Chinese Vocabulary
+================================================================================
+
+HEAD (头 - tóu)
+--------------------------------------------------------------------------------
+Components:
+- 头发 (tóufa) - hair
+- 大脑 (dànǎo) - brain
+- 头骨 (tóugǔ) - skull
+- 头皮 (tóupí) - scalp
+- 太阳穴 (tàiyángxué) - temple
+- 后脑勺 (hòunǎosháo) - back of head
+
+Clothing/Accessories:
+- 帽子 (màozi) - hat
+- 头巾 (tóujīn) - headscarf
+- 发带 (fàdài) - hairband
+- 耳机 (ěrjī) - headphones
+- 眼镜 (yǎnjìng) - glasses
+- 太阳镜 (tàiyángjìng) - sunglasses
+
+FACE (脸 - liǎn)
+--------------------------------------------------------------------------------
+Components:
+- 眼睛 (yǎnjing) - eyes
+- 鼻子 (bízi) - nose
+- 嘴巴 (zuǐba) - mouth
+- 耳朵 (ěrduo) - ears
+- 眉毛 (méimáo) - eyebrows
+- 睫毛 (jiémáo) - eyelashes
+- 脸颊 (liǎnjiá) - cheeks
+- 额头 (étóu) - forehead
+- 下巴 (xiàba) - chin
+- 嘴唇 (zuǐchún) - lips
+- 牙齿 (yáchǐ) - teeth
+- 舌头 (shétou) - tongue
+
+Clothing/Accessories:
+- 口罩 (kǒuzhào) - face mask
+- 围巾 (wéijīn) - scarf
+- 耳环 (ěrhuán) - earrings
+- 鼻环 (bíhuán) - nose ring
+- 唇膏 (chúngāo) - lipstick
+
+NECK (脖子 - bózi)
+--------------------------------------------------------------------------------
+Components:
+- 喉咙 (hóulóng) - throat
+- 颈椎 (jǐngzhuī) - cervical vertebrae
+- 喉结 (hóujié) - Adam's apple
+- 颈动脉 (jǐngdòngmài) - carotid artery
+
+Clothing/Accessories:
+- 项链 (xiàngliàn) - necklace
+- 围巾 (wéijīn) - scarf
+- 领带 (lǐngdài) - tie
+- 衣领 (yīlǐng) - collar
+- 颈链 (jǐngliàn) - choker
+
+TORSO/UPPER BODY (躯干 - qūgàn)
+--------------------------------------------------------------------------------
+Components:
+- 胸部 (xiōngbù) - chest
+- 腹部 (fùbù) - abdomen
+- 背部 (bèibù) - back
+- 肩膀 (jiānbǎng) - shoulders
+- 肋骨 (lèigǔ) - ribs
+- 脊柱 (jǐzhù) - spine
+- 心脏 (xīnzàng) - heart
+- 肺部 (fèibù) - lungs
+- 胃 (wèi) - stomach
+- 肝脏 (gānzàng) - liver
+- 腰部 (yāobù) - waist
+- 肚脐 (dùqí) - navel
+
+Clothing:
+- 衬衫 (chènshān) - shirt
+- T恤 (T xù) - T-shirt
+- 毛衣 (máoyī) - sweater
+- 外套 (wàitào) - jacket
+- 西装 (xīzhuāng) - suit
+- 胸罩 (xiōngzhào) - bra
+- 背心 (bèixīn) - tank top/vest
+- 腰带 (yāodài) - belt
+
+ARMS (手臂 - shǒubì)
+--------------------------------------------------------------------------------
+Components:
+- 上臂 (shàngbì) - upper arm
+- 前臂 (qiánbì) - forearm
+- 肘部 (zhǒubù) - elbow
+- 腋下 (yèxià) - armpit
+- 二头肌 (èrtóujī) - bicep
+- 三头肌 (sāntóujī) - tricep
+
+Clothing:
+- 袖子 (xiùzi) - sleeve
+- 臂章 (bìzhāng) - armband
+
+HANDS (手 - shǒu)
+--------------------------------------------------------------------------------
+Components:
+- 手掌 (shǒuzhǎng) - palm
+- 手背 (shǒubèi) - back of hand
+- 手指 (shǒuzhǐ) - fingers
+- 拇指 (mǔzhǐ) - thumb
+- 食指 (shízhǐ) - index finger
+- 中指 (zhōngzhǐ) - middle finger
+- 无名指 (wúmíngzhǐ) - ring finger
+- 小指 (xiǎozhǐ) - little finger
+- 指甲 (zhǐjia) - fingernail
+- 关节 (guānjié) - knuckle
+- 手腕 (shǒuwàn) - wrist
+
+Clothing/Accessories:
+- 手套 (shǒutào) - gloves
+- 手镯 (shǒuzhuó) - bracelet
+- 手表 (shǒubiǎo) - watch
+- 戒指 (jièzhi) - ring
+
+LOWER BODY (下半身 - xiàbànshēn)
+--------------------------------------------------------------------------------
+Components:
+- 臀部 (túnbù) - buttocks
+- 骨盆 (gǔpén) - pelvis
+- 髋部 (kuānbù) - hips
+- 腹股沟 (fùgǔgōu) - groin
+
+Clothing:
+- 裤子 (kùzi) - pants
+- 裙子 (qúnzi) - skirt
+- 内裤 (nèikù) - underwear
+- 短裤 (duǎnkù) - shorts
+- 腰带 (yāodài) - belt
+
+LEGS (腿 - tuǐ)
+--------------------------------------------------------------------------------
+Components:
+- 大腿 (dàtuǐ) - thigh
+- 小腿 (xiǎotuǐ) - calf
+- 膝盖 (xīgài) - knee
+- 膝盖骨 (xīgàigǔ) - kneecap
+- 脚踝 (jiǎohuái) - ankle
+- 胫骨 (jìnggǔ) - shin
+- 股骨 (gǔgǔ) - femur
+- 肌肉 (jīròu) - muscle
+
+Clothing:
+- 袜子 (wàzi) - socks
+- 腿套 (tuǐtào) - leg warmers
+- 护膝 (hùxī) - knee pads
+
+FEET (脚 - jiǎo)
+--------------------------------------------------------------------------------
+Components:
+- 脚趾 (jiǎozhǐ) - toes
+- 脚掌 (jiǎozhǎng) - sole
+- 脚背 (jiǎobèi) - instep
+- 脚跟 (jiǎogēn) - heel
+- 脚踝 (jiǎohuái) - ankle
+- 脚趾甲 (jiǎozhǐjia) - toenail
+- 足弓 (zúgōng) - arch
+
+Clothing/Accessories:
+- 鞋子 (xiézi) - shoes
+- 拖鞋 (tuōxié) - slippers
+- 短袜 (duǎnwà) - ankle socks
+- 长袜 (chángwà) - long socks
+- 脚链 (jiǎoliàn) - ankle bracelet
+
+INTERNAL ORGANS (内脏 - nèizàng)
+--------------------------------------------------------------------------------
+Components:
+- 心脏 (xīnzàng) - heart
+- 肺部 (fèibù) - lungs
+- 胃 (wèi) - stomach
+- 肝脏 (gānzàng) - liver
+- 肾脏 (shènzàng) - kidneys
+- 肠子 (chángzi) - intestines
+- 胰腺 (yíxiàn) - pancreas
+- 胆囊 (dǎnnáng) - gallbladder
+- 脾脏 (pízàng) - spleen
+- 膀胱 (pángguāng) - bladder
+
+SKIN & SURFACE (皮肤 - pífū)
+--------------------------------------------------------------------------------
+Components:
+- 皮肤 (pífū) - skin
+- 毛孔 (máokǒng) - pores
+- 汗毛 (hànmáo) - body hair
+- 痣 (zhì) - mole
+- 疤痕 (bāhén) - scar
+- 皱纹 (zhòuwén) - wrinkles
+
+================================================================================
+Vocabulary Summary:
+- Total Body Parts: 25 main categories
+- Total Components: 80+ specific parts
+- Total Clothing Items: 40+ articles
+- All entries include Chinese Characters and Pinyin
+
+
+```txt
+Chinese Vocabulary: Variants and Related Terms
+===============================================
+
+TREES AND WOOD PRODUCTS
+===============================================
+
+PLUM (李 - lǐ)
+- 李树 (lǐshù) - plum tree
+- 李子 (lǐzi) - plum fruit
+- 李树木材 (lǐshù mùcái) - plum tree wood
+- 李树枝 (lǐshù zhī) - plum tree branches
+- 李树叶 (lǐshù yè) - plum tree leaves
+- 李树花 (lǐshù huā) - plum blossoms
+- 李树根 (lǐshù gēn) - plum tree roots
+- 李子酱 (lǐzi jiàng) - plum jam
+- 李子汁 (lǐzi zhī) - plum juice
+
+PEACH (桃 - táo)
+- 桃树 (táoshù) - peach tree
+- 桃子 (táozi) - peach fruit
+- 桃木 (táomù) - peach wood
+- 桃树枝 (táoshù zhī) - peach tree branches
+- 桃花 (táohuā) - peach blossoms
+- 桃叶 (táoyè) - peach leaves
+- 桃核 (táohé) - peach pit
+- 桃酱 (táo jiàng) - peach jam
+
+PINE (松 - sōng)
+- 松树 (sōngshù) - pine tree
+- 松木 (sōngmù) - pine wood
+- 松枝 (sōngzhī) - pine branches
+- 松针 (sōngzhēn) - pine needles
+- 松果 (sōngguǒ) - pine cone
+- 松香 (sōngxiāng) - pine resin
+- 松树皮 (sōngshù pí) - pine bark
+- 松树根 (sōngshù gēn) - pine roots
+
+OAK (橡 - xiàng)
+- 橡树 (xiàngshù) - oak tree
+- 橡木 (xiàngmù) - oak wood
+- 橡树枝 (xiàngshù zhī) - oak branches
+- 橡树叶 (xiàngshù yè) - oak leaves
+- 橡子 (xiàngzi) - acorn
+- 橡树皮 (xiàngshù pí) - oak bark
+
+MAPLE (枫 - fēng)
+- 枫树 (fēngshù) - maple tree
+- 枫木 (fēngmù) - maple wood
+- 枫树枝 (fēngshù zhī) - maple branches
+- 枫叶 (fēngyè) - maple leaves
+- 枫树液 (fēngshù yè) - maple sap
+- 枫糖 (fēngtáng) - maple syrup
+
+WILLOW (柳 - liǔ)
+- 柳树 (liǔshù) - willow tree
+- 柳木 (liǔmù) - willow wood
+- 柳枝 (liǔzhī) - willow branches
+- 柳叶 (liǔyè) - willow leaves
+- 柳条 (liǔtiáo) - willow twigs
+
+BAMBOO (竹 - zhú)
+- 竹子 (zhúzi) - bamboo plant
+- 竹材 (zhúcái) - bamboo wood
+- 竹枝 (zhúzhī) - bamboo branches
+- 竹叶 (zhúyè) - bamboo leaves
+- 竹笋 (zhúsǔn) - bamboo shoot
+- 竹根 (zhúgēn) - bamboo roots
+- 竹片 (zhúpiàn) - bamboo strips
+
+CHERRY (樱 - yīng)
+- 樱桃树 (yīngtáoshù) - cherry tree
+- 樱桃 (yīngtáo) - cherry fruit
+- 樱桃木 (yīngtáomù) - cherry wood
+- 樱桃花 (yīngtáohuā) - cherry blossoms
+- 樱桃枝 (yīngtáo zhī) - cherry branches
+
+ANIMALS AND ANIMAL PRODUCTS
+===============================================
+
+SHEEP (羊 - yáng)
+- 羊 (yáng) - sheep
+- 羊毛 (yángmáo) - sheep wool
+- 羊肉 (yángròu) - sheep meat (mutton)
+- 羊皮 (yángpí) - sheep leather
+- 羊角 (yángjiǎo) - sheep horn
+- 羊奶 (yángnǎi) - sheep milk
+- 羊骨 (yánggǔ) - sheep bone
+- 羊脂 (yángzhī) - sheep fat/tallow
+
+COW (牛 - niú)
+- 牛 (niú) - cow
+- 牛皮 (niúpí) - cow leather
+- 牛肉 (niúròu) - beef
+- 牛奶 (niúnǎi) - cow milk
+- 牛角 (niújiǎo) - cow horn
+- 牛骨 (niúgǔ) - cow bone
+- 牛油 (niúyóu) - beef fat/butter
+- 牛毛 (niúmáo) - cow hair
+
+PIG (猪 - zhū)
+- 猪 (zhū) - pig
+- 猪肉 (zhūròu) - pork
+- 猪皮 (zhūpí) - pig leather
+- 猪油 (zhūyóu) - lard
+- 猪骨 (zhūgǔ) - pig bone
+- 猪毛 (zhūmáo) - pig hair/bristles
+- 猪蹄 (zhūtí) - pig trotters
+- 猪血 (zhūxuè) - pig blood
+
+CHICKEN (鸡 - jī)
+- 鸡 (jī) - chicken
+- 鸡肉 (jīròu) - chicken meat
+- 鸡蛋 (jīdàn) - chicken egg
+- 鸡毛 (jīmáo) - chicken feathers
+- 鸡皮 (jīpí) - chicken skin
+- 鸡骨 (jīgǔ) - chicken bone
+- 鸡冠 (jīguān) - chicken comb
+- 鸡爪 (jīzhuǎ) - chicken feet
+
+DEER (鹿 - lù)
+- 鹿 (lù) - deer
+- 鹿肉 (lùròu) - venison
+- 鹿皮 (lùpí) - deerskin
+- 鹿角 (lùjiǎo) - deer antlers
+- 鹿茸 (lùróng) - deer velvet (young antlers)
+- 鹿骨 (lùgǔ) - deer bone
+- 鹿血 (lùxuè) - deer blood
+
+FISH (鱼 - yú)
+- 鱼 (yú) - fish
+- 鱼肉 (yúròu) - fish meat
+- 鱼皮 (yúpí) - fish skin
+- 鱼鳞 (yúlín) - fish scales
+- 鱼骨 (yúgǔ) - fish bone
+- 鱼鳍 (yúqí) - fish fin
+- 鱼鳔 (yúbiào) - fish swim bladder
+- 鱼卵 (yúluǎn) - fish roe
+
+METALS AND METAL PRODUCTS
+===============================================
+
+GOLD (金 - jīn)
+- 金矿 (jīnkuàng) - gold ore
+- 金条 (jīntiáo) - gold bar
+- 金币 (jīnbì) - gold coin
+- 金匕首 (jīn bǐshǒu) - gold dagger
+- 金戒指 (jīn jièzhi) - gold ring
+- 金项链 (jīn xiàngliàn) - gold necklace
+- 金手镯 (jīn shǒuzhuó) - gold bracelet
+- 金碗 (jīn wǎn) - gold bowl
+- 金杯 (jīn bēi) - gold cup
+- 金首饰 (jīn shǒushì) - gold jewelry
+
+SILVER (银 - yín)
+- 银矿 (yínkuàng) - silver ore
+- 银条 (yíntiáo) - silver bar
+- 银币 (yínbì) - silver coin
+- 银匕首 (yín bǐshǒu) - silver dagger
+- 银戒指 (yín jièzhi) - silver ring
+- 银餐具 (yín cānjù) - silverware
+- 银碗 (yín wǎn) - silver bowl
+- 银首饰 (yín shǒushì) - silver jewelry
+
+IRON (铁 - tiě)
+- 铁矿 (tiěkuàng) - iron ore
+- 铁条 (tiětiáo) - iron bar
+- 铁币 (tiěbì) - iron coin
+- 铁匕首 (tiě bǐshǒu) - iron dagger
+- 铁剑 (tiě jiàn) - iron sword
+- 铁甲 (tiě jiǎ) - iron armor
+- 铁钉 (tiě dīng) - iron nail
+- 铁锤 (tiě chuí) - iron hammer
+
+COPPER (铜 - tóng)
+- 铜矿 (tóngkuàng) - copper ore
+- 铜条 (tóngtiáo) - copper bar
+- 铜币 (tóngbì) - copper coin
+- 铜匕首 (tóng bǐshǒu) - copper dagger
+- 铜像 (tóngxiàng) - bronze statue
+- 铜钟 (tóngzhōng) - bronze bell
+- 铜镜 (tóngjìng) - bronze mirror
+
+STEEL (钢 - gāng)
+- 钢条 (gāngtiáo) - steel bar
+- 钢匕首 (gāng bǐshǒu) - steel dagger
+- 钢剑 (gāng jiàn) - steel sword
+- 钢甲 (gāng jiǎ) - steel armor
+- 钢盾 (gāng dùn) - steel shield
+- 钢钉 (gāng dīng) - steel nail
+
+STONE AND MINERALS
+===============================================
+
+MARBLE (大理石 - dàlǐshí)
+- 大理石矿 (dàlǐshí kuàng) - marble quarry
+- 大理石板 (dàlǐshí bǎn) - marble slab
+- 大理石雕像 (dàlǐshí diāoxiàng) - marble statue
+- 大理石柱 (dàlǐshí zhù) - marble column
+- 大理石地板 (dàlǐshí dìbǎn) - marble floor
+
+JADE (玉 - yù)
+- 玉石 (yùshí) - jade stone
+- 玉矿 (yùkuàng) - jade mine
+- 玉雕 (yùdiāo) - jade carving
+- 玉镯 (yùzhuó) - jade bracelet
+- 玉佩 (yùpèi) - jade pendant
+- 玉戒指 (yù jièzhi) - jade ring
+- 玉碗 (yù wǎn) - jade bowl
+
+CLAY AND CERAMICS
+===============================================
+
+CLAY (粘土 - niántǔ)
+- 粘土矿 (niántǔ kuàng) - clay deposit
+- 粘土块 (niántǔ kuài) - clay lump
+- 粘土罐 (niántǔ guàn) - clay pot
+- 粘土碗 (niántǔ wǎn) - clay bowl
+- 粘土砖 (niántǔ zhuān) - clay brick
+- 粘土雕像 (niántǔ diāoxiàng) - clay statue
+
+POTTERY (陶器 - táoqì)
+- 陶土 (táotǔ) - pottery clay
+- 陶罐 (táoguàn) - pottery jar
+- 陶碗 (táowǎn) - pottery bowl
+- 陶盘 (táopán) - pottery plate
+- 陶俑 (táoyǒng) - pottery figurine
+
+PORCELAIN (瓷器 - cíqì)
+- 瓷土 (cítǔ) - porcelain clay
+- 瓷碗 (cíwǎn) - porcelain bowl
+- 瓷盘 (cípán) - porcelain plate
+- 瓷瓶 (cípíng) - porcelain vase
+- 瓷杯 (cíbēi) - porcelain cup
+
+PLANTS AND CROPS
+===============================================
+
+RICE (米 - mǐ)
+- 水稻 (shuǐdào) - rice plant
+- 大米 (dàmǐ) - rice grains
+- 米粉 (mǐfěn) - rice flour
+- 米饭 (mǐfàn) - cooked rice
+- 米酒 (mǐjiǔ) - rice wine
+- 米粥 (mǐzhōu) - rice porridge
+
+WHEAT (麦 - mài)
+- 小麦 (xiǎomài) - wheat plant
+- 麦粒 (màilì) - wheat grains
+- 面粉 (miànfěn) - wheat flour
+- 面包 (miànbāo) - bread
+- 麦秆 (màigǎn) - wheat straw
+- 麦田 (màitián) - wheat field
+
+COTTON (棉 - mián)
+- 棉花 (miánhuā) - cotton plant
+- 棉布 (miánbù) - cotton cloth
+- 棉线 (miánxiàn) - cotton thread
+- 棉衣 (miányī) - cotton clothing
+- 棉被 (miánbèi) - cotton quilt
+- 棉籽 (miánzǐ) - cotton seeds
+
+WATER AND LIQUIDS
+===============================================
+
+WATER (水 - shuǐ)
+- 河水 (héshuǐ) - river water
+- 湖水 (húshuǐ) - lake water
+- 海水 (hǎishuǐ) - sea water
+- 雨水 (yǔshuǐ) - rain water
+- 井水 (jǐngshuǐ) - well water
+- 泉水 (quánshuǐ) - spring water
+- 冰水 (bīngshuǐ) - ice water
+- 热水 (rèshuǐ) - hot water
+
+WINE (酒 - jiǔ)
+- 葡萄酒 (pútáojiǔ) - grape wine
+- 米酒 (mǐjiǔ) - rice wine
+- 白酒 (báijiǔ) - white liquor
+- 啤酒 (píjiǔ) - beer
+- 酒瓶 (jiǔpíng) - wine bottle
+- 酒杯 (jiǔbēi) - wine glass
+- 酒桶 (jiǔtǒng) - wine barrel
+
+PATTERN NOTES:
+- 树 (shù) = tree
+- 木 (mù) = wood
+- 枝 (zhī) = branch
+- 叶 (yè) = leaf
+- 花 (huā) = flower
+- 果 (guǒ) = fruit
+- 皮 (pí) = skin/leather
+- 肉 (ròu) = meat
+- 毛 (máo) = hair/wool
+- 骨 (gǔ) = bone
+- 矿 (kuàng) = ore/mine
+- 条 (tiáo) = bar
+- 币 (bì) = coin
+- 器 (qì) = vessel/ware
+```
+
+
