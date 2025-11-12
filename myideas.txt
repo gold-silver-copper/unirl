@@ -1,0 +1,1 @@
+Use bold font for NPCs and Animals, things like that
