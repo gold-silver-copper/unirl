@@ -1,1 +1,3 @@
 Use bold font for NPCs and Animals, things like that
+barely contrasting colors when using CJK for terrain, very contrasting colors for NPCs, medium for objects?
+use egui not bevy ui
