@@ -1,3 +1,37 @@
 Use bold font for NPCs and Animals, things like that
 barely contrasting colors when using CJK for terrain, very contrasting colors for NPCs, medium for objects?
 use egui not bevy ui
+
+
+the character should be smart enough thaat he can manage his own inventory and weight
+building materials have no weight, but they must be first crafted out of materials that do have a weight
+
+
+Completely Real Time, host can pause and unpase the game.
+
+First class mouse support, mouse+kb as default way of playing
+
+All space that is walkable has black background, anything which is not walkable, uses a different bg color, green for thick forest, blue for unswimmable water
+
+Every tile cell has a water level, has to be <2 to be walkable.
+Walking makes a sound which shows as an exclamation if a person cant be seen
+time to turn, cant turn infinitely fast
+
+For Items on the floor use half sized characters, for walls and creatures use full sized
+
+For base terrain use basic ascii, chinese characters mainly for decorative items. Dangerous enemies should be ascii.
+
+Skyscrapers serve as dungeons which go up, underground labs or subway serve as dungeons that delve down.
+
+Each building can have only one window on each vertical line, to simplify ascii rendering of 3d
+
+Do something like doom's fake 3d thru non euclidean geometry of maps
+
+CONTROLS:
+Tank Controls
+WASD MOVEMENT
+IJKL Cursor
+Q - Go back in menus/verb actions
+
+B - Build
+F - Attack
